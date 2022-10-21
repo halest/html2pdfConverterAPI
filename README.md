@@ -82,7 +82,8 @@ server {
 ```
 # Credit
 Uses DomPDF, TCPDF and TCPDI. Thanks to them!
-[tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf)
+
+https://github.com/tecnickcom/tc-lib-pdf
 
 https://github.com/dompdf/dompdf
 
